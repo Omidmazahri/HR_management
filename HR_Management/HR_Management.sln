@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CE959F62-7ABB-48B2-A540-D344E88F9413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR_Management.Domain", "HR_Management.Domain\HR_Management.Domain.csproj", "{F74FC44D-9C3F-488A-BBA6-290FCAE672FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{4A8278B0-EE6A-4309-9F73-21287C471B18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{2DC24254-4182-4D98-BAEA-9CF308D20160}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CORE", "CORE", "{7C69FA0C-741F-4AC0-8319-A02D977643AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{F2AA48F2-5C8E-4E41-9027-3E66DE06753C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "infrastructure", "infrastructure", "{13C0803C-18D0-4325-A9C3-F350E8D9E154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F74FC44D-9C3F-488A-BBA6-290FCAE672FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74FC44D-9C3F-488A-BBA6-290FCAE672FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74FC44D-9C3F-488A-BBA6-290FCAE672FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74FC44D-9C3F-488A-BBA6-290FCAE672FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F74FC44D-9C3F-488A-BBA6-290FCAE672FD} = {7C69FA0C-741F-4AC0-8319-A02D977643AC}
+		{2DC24254-4182-4D98-BAEA-9CF308D20160} = {CE959F62-7ABB-48B2-A540-D344E88F9413}
+		{7C69FA0C-741F-4AC0-8319-A02D977643AC} = {CE959F62-7ABB-48B2-A540-D344E88F9413}
+		{F2AA48F2-5C8E-4E41-9027-3E66DE06753C} = {CE959F62-7ABB-48B2-A540-D344E88F9413}
+		{13C0803C-18D0-4325-A9C3-F350E8D9E154} = {CE959F62-7ABB-48B2-A540-D344E88F9413}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE4C5B3B-1C70-4317-8EC6-933848DE113E}
+	EndGlobalSection
+EndGlobal
