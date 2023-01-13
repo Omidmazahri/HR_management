@@ -1,0 +1,10 @@
+C:\Users\omid1\source\repos\HR_management\HR_Management\HR_Management.Domain\bin\Debug\netstandard2.1\HR_Management.Domain.deps.json
+C:\Users\omid1\source\repos\HR_management\HR_Management\HR_Management.Domain\bin\Debug\netstandard2.1\HR_Management.Domain.dll
+C:\Users\omid1\source\repos\HR_management\HR_Management\HR_Management.Domain\bin\Debug\netstandard2.1\HR_Management.Domain.pdb
+C:\Users\omid1\source\repos\HR_management\HR_Management\HR_Management.Domain\obj\Debug\netstandard2.1\HR_Management.Domain.csproj.AssemblyReference.cache
+C:\Users\omid1\source\repos\HR_management\HR_Management\HR_Management.Domain\obj\Debug\netstandard2.1\HR_Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omid1\source\repos\HR_management\HR_Management\HR_Management.Domain\obj\Debug\netstandard2.1\HR_Management.Domain.AssemblyInfoInputs.cache
+C:\Users\omid1\source\repos\HR_management\HR_Management\HR_Management.Domain\obj\Debug\netstandard2.1\HR_Management.Domain.AssemblyInfo.cs
+C:\Users\omid1\source\repos\HR_management\HR_Management\HR_Management.Domain\obj\Debug\netstandard2.1\HR_Management.Domain.csproj.CoreCompileInputs.cache
+C:\Users\omid1\source\repos\HR_management\HR_Management\HR_Management.Domain\obj\Debug\netstandard2.1\HR_Management.Domain.dll
+C:\Users\omid1\source\repos\HR_management\HR_Management\HR_Management.Domain\obj\Debug\netstandard2.1\HR_Management.Domain.pdb

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HR_Management.Domain
+namespace HR_Management_Domain
 {
     public class LeaveType: BaseDomainEntity
     {
